@@ -1,0 +1,12 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "my second chat app",
+  "author": "Constantin, Dragos, Marius, Paul",
+  "license":"ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.1.1"
+  }
+}
