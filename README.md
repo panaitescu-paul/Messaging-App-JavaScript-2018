@@ -1,4 +1,4 @@
-# ChatInBrowser-2018
+# Messaging App - JavaScript - 2018
 
 ### Features:
 - Chat in Browser 
